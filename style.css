@@ -1,0 +1,24 @@
+body{
+    color: whitesmoke;
+    background: linear-gradient(
+        180deg,
+        rgba(42, 42, 48, 0.9),
+        rgba(101, 101, 107, 0.5)
+      ),url('bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 20px;
+    font-family: poppins;
+}
+
+#title{
+    font-family: poppins;
+}
+
+form{
+ background: linear-gradient(
+    180deg,
+    rgba(42, 42, 48, 0.8),
+    rgba(101, 101, 107, 0.3)
+  );    
+}
